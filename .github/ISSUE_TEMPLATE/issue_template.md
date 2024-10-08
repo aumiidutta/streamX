@@ -1,16 +1,16 @@
 ---
-name: 'Issue: **issue title**'
-about: "**What is this issue about?**"
+name: 'Feature request'
+about: "**Add a feature**"
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Is your issue related to a problem? Please describe.** <br />
+**What new feature do you want to add?** <br />
 A clear and concise description of what the problem is.
 
-**Describe the solution you'd like** <br />
+**Describe your approach** <br />
 A clear and concise description of what you want to happen.
 
 **Additional context** <br />
