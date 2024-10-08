@@ -1,0 +1,1 @@
+This file is solely for testing purpose of pull request template & GitHub action bot.
