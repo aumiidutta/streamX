@@ -33,4 +33,7 @@ streamX is a music streaming web application where users can create account and 
 - [Bistirno Shil](https://github.com/)
 
 ## Demo
-https://github.com/user-attachments/assets/2854cf35-7671-4cdb-9eb7-de4e2cc497cd
+https://github.com/user-attachments/assets/1ebbfd6e-8e32-44ad-a3dd-ce554590ae5e
+
+## YT
+https://youtu.be/7UPyp_Ge22g
